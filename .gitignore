@@ -9,3 +9,5 @@
 /ccwc.iml
 /out/production/ccwc/Main.class
 /.idea/.gitignore
+src/json_parser/Main.class
+out/production/
